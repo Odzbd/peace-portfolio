@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Peace | Computer Science Portfolio
 
-## Getting Started
+A professional portfolio showcasing high-impact projects in AI, Finance, and Software Engineering. Built with deep technical rigor and a focus on research-led solutions.
 
-First, run the development server:
+🚀 **Live Site:** [https://peace-portfolio-7z6k7l03n-peaces-projects-389e8ef6.vercel.app](https://peace-portfolio-7z6k7l03n-peaces-projects-389e8ef6.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠 Tech Stack
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Math Visualization:** KaTeX / React-KaTeX
+- **Icons:** Lucide React
+- **Deployment:** Vercel
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📁 Key Projects
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🧠 AI Mental Health Analysis (Research Proposal)
+Developing a research framework utilizing the **Typhoon 2 API** and **RAG** architecture to identify cognitive distortions through **CBT** principles.
+- **Focus:** NLP, Research Design, LLM Integration.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 📈 Flow Capital Analysis Engine
+A quantitative algorithm designed to decompose Money Flow OBV into **Resource Flow** and **Unknown Flow** states using a state-based buffer system.
+- **Logic:** High-precision state tracking with a 0.999 decay factor for system memory.
 
-## Learn More
+### ⚡ Kaipa (Experimental R&D)
+A bio-inspired neural dynamics simulation exploring signal propagation through dynamic resistance grids and Hebbian learning logic.
+- **Focus:** NumPy, Vectorized Computation, Bio-mimetic Signal Flow.
 
-To learn more about Next.js, take a look at the following resources:
+## 🏛 Academic Foundation
+- **Course 2301399:** Computer Science Project Proposal
+- **Course 2110446:** Investment Engineering
+- **Certification:** Google Data Analytics Professional Certificate
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Created by Peace. Strategic thinking meets engineering logic.*
