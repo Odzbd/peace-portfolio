@@ -2,7 +2,7 @@
 
 A professional portfolio showcasing high-impact projects in AI, Finance, and Software Engineering. Built with deep technical rigor and a focus on research-led solutions.
 
-🚀 **Live Site:** [https://peace-portfolio-7z6k7l03n-peaces-projects-389e8ef6.vercel.app](https://peace-portfolio-7z6k7l03n-peaces-projects-389e8ef6.vercel.app)
+🚀 **Live Site:** [https://peace-portfolio-theta.vercel.app](https://peace-portfolio-theta.vercel.app)
 
 ## 🛠 Tech Stack
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
