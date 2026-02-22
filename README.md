@@ -12,9 +12,9 @@ A professional portfolio showcasing high-impact projects in AI, Finance, and Sof
 - **Deployment:** Vercel
 
 ## 📁 Key Projects
-- **AI Mental Health Analysis** — Research framework using Typhoon 2 API & RAG.
+<!-- - **AI Mental Health Analysis** — Research framework using Typhoon 2 API & RAG. -->
 - **Flow Capital Analysis Engine** — Quantitative Money Flow decomposition algorithm.
-- **Kaipa** — Bio-inspired neural dynamics & numerical simulation.
+<!-- - **Kaipa** — Bio-inspired neural dynamics & numerical simulation. -->
 - **Aroi Thai Japan** — Business digital transformation and SEO optimization.
 - **Waanboard** — Full-stack logical system development.
 

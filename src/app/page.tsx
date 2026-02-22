@@ -77,6 +77,7 @@ const projects = [
     ],
     path: "/projects/backtesting"
   },
+  /*
   {
     title: "Kaipa: Experimental Neural Dynamics",
     description: "Bio-inspired signal propagation research. An exploration into building custom AI architectures from biological first principles.",
@@ -101,6 +102,7 @@ const projects = [
     ],
     path: "/projects/mental-health"
   }
+  */
 ];
 
 export default function Home() {
