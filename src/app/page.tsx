@@ -190,7 +190,7 @@ export default function Home() {
             <h2 className="text-blue-400 font-mono text-[10px] tracking-[0.3em] uppercase">The Strategy</h2>
             <h3 className="text-xl font-bold tracking-tight">Strategic Logic</h3>
             <p className="text-neutral-400 text-xs leading-relaxed">
-              Daily practitioner with a <span className="text-white font-bold">1644 Elo in Chess Puzzles</span> (97.7th percentile). Focused on high-speed pattern recognition and tactical decision-making.
+              Daily practitioner with a <span className="text-white font-bold">1754 Elo in Chess Puzzles</span>. Focused on high-speed pattern recognition and tactical decision-making.
             </p>
           </motion.div>
 
